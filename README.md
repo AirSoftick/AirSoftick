@@ -1,6 +1,6 @@
 <!-- Заголовок с анимацией -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/iJJ6E58EttmFqgLo96/giphy.gif" alt="ты смотришь на мой код:" width="600" height="400" />
+  <img src="https://media.giphy.com/media/iJJ6E58EttmFqgLo96/giphy.gif" alt="ты смотришь на мой код:" width="300" height="200" />
   <br>
   ты смотришь на мой код:
 </h1>
@@ -44,6 +44,7 @@
   🚀 Let's code and have fun!🚀
 </p>
 
-[![VK](https://img.shields.io/badge/-VK-blue?style=flat-square&logo=vk&logoColor=white)](https://vk.com/id516616309)  [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/KapuStencka)
-
-
+<p align="center">
+  <a href="https://vk.com/id516616309"><img src="https://img.shields.io/badge/-VK-blue?style=flat-square&logo=vk&logoColor=white" alt="VK"></a>
+  <a href="https://t.me/KapuStencka"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
