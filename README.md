@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  🚀 Let's code and have fun! Happy hacking! 🚀
+  🚀 Let's code and have fun!🚀
 </p>
 
 [![VK](https://img.shields.io/badge/-VK-blue?style=flat-square&logo=vk&logoColor=white)](https://vk.com/id516616309)  [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/KapuStencka)
