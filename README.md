@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  🚀 Let's code and have fun!🚀
+  🚀 Let's code and have fun! 🚀
 </p>
 
 <p align="center">
