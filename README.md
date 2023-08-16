@@ -1,6 +1,6 @@
 <!-- Заголовок с анимацией -->
 <h1 align="center">
-   <img src="https://media.giphy.com/media/n5CHDD8c4sW18Dqz3z/giphy.gif" alt="Привет!" width="300" height="200" />
+  <img src="https://media.giphy.com/media/l0HlNaQ6fT5d5Rm7C/giphy.gif" alt="Привет!" width="300" height="200" />
   <br>
   Привет!
 </h1>
