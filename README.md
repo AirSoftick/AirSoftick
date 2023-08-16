@@ -2,7 +2,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/iJJ6E58EttmFqgLo96/giphy.gif" width="300" height="200" />
   <br>
-  Привет!
 </h1>
 
 <!-- Информация о студенте -->
