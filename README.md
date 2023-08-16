@@ -48,3 +48,6 @@
 <p align="center">
   🚀 Let's code and have fun! Happy hacking! 🚀
 </p>
+
+[![VK](https://img.shields.io/badge/-VK-blue?style=flat-square&logo=vk&logoColor=white)](https://vk.com/id516616309)
+
