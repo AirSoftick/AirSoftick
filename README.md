@@ -1,6 +1,6 @@
 <!-- Заголовок с анимацией -->
 <h1 align="center">
-  <iframe src="https://giphy.com/embed/n5CHDD8c4sW18Dqz3z" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/viralhog-viral-hog-n5CHDD8c4sW18Dqz3z">via GIPHY</a></p>
+   <img src="https://media.giphy.com/media/n5CHDD8c4sW18Dqz3z/giphy.gif" alt="Привет!" width="300" height="200" />
   <br>
   Привет!
 </h1>
