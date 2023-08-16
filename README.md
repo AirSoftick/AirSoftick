@@ -1,6 +1,6 @@
 <!-- Заголовок с анимацией -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/iJJ6E58EttmFqgLo96/giphy.gif" alt="ты смотришь на мой код:" width="300" height="200" />
+  <img src="https://media.giphy.com/media/iJJ6E58EttmFqgLo96/giphy.gif" alt="ты смотришь на мой код:" width="600" height="400" />
   <br>
   ты смотришь на мой код:
 </h1>
