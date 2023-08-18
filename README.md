@@ -39,5 +39,5 @@
 <p align="center">
   <a href="https://vk.com/id516616309"><img src="https://img.shields.io/badge/-VK-blue?style=flat-square&logo=vk&logoColor=white" alt="VK"></a>
   <a href="https://t.me/KapuStencka"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.youtube.com/@AirSoftick/about"><img src="https://img.shields.io/badge/YouTube?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/channel/UCd8GfW2vZvT2VQ4mCfBwPWw"><img src="https://img.shields.io/badge/YouTube?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 </p>
